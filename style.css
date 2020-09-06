@@ -1,0 +1,70 @@
+.menu-bar {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.menu-bar ul {
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+}
+
+.menu-bar li {
+    display: inline-block;
+    padding: 5px;
+}
+
+.menu-bar a {
+    text-decoration: none;
+}
+
+.menu-bar a.active {
+    border-bottom: 1px solid black;
+}
+
+footer {
+    border-top: 1px solid black;
+    padding: 20px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    /*border: 1px solid black;*/
+    padding: 5px;
+    width: 300px;
+    margin: 10px;
+}
+
+.card .card-header {
+    text-align: center;
+    font-weight: bold;
+}
+
+.card .card-image {
+    text-align: center;
+}
+
+.card .card-image img{
+    width: 150px;
+    height: 100px;
+}
+
+.card .card-footer {
+    text-align: center;
+}
+
+.price {
+    display: inline-block;
+    width: 48%;
+    text-align: center;
+}
+
+.price-actual {
+    text-decoration: line-through;
+}
+
+.price-discounted {
+
+}
