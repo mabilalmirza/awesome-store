@@ -11,6 +11,8 @@ Awesome Store Assignment Solution
 <li> Bkgnd color changed from Magenta to Lightgrey. </li>
 <li> Empty Tags for .price price-discounted removed. </li>
 <li> Gradient Added </li>
+<li> header, main, h2 Margins added </li>
+<li> Padding on p tag of welcome text added to make it more focused.</li>
 </ol>
 
 <h5> index.html: </h5>

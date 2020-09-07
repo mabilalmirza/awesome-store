@@ -35,6 +35,13 @@ main {
     margin: 20px;
 }
 
+h2 {
+    text-align: center;
+}
+
+p {
+    padding: 10px;
+}
 footer {
     border-top: 1px solid black;
     padding: 20px;
